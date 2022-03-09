@@ -10,3 +10,4 @@ I am a first year undergraduate student from Nepal. I love to learn new technolo
 
 ### My GitHub Stats
 ![Om's GitHub Stat](https://github-readme-stats.vercel.app/api?username=ompiepy&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ompiepy)]
