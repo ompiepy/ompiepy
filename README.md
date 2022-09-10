@@ -3,7 +3,7 @@
 #### Glad to see you here :slightly_smiling_face:
 
 ### About Me :zap:
-I am a first year undergraduate student from Nepal. I love to learn new technology and teach others that I have learned.
+I am a second year undergraduate student from Nepal. I love to learn new technology and teach others that I have learned.
 
 ### Find me Around the Web :globe_with_meridians:
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/ompiepy),
